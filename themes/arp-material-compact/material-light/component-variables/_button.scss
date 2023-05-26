@@ -1,0 +1,93 @@
+//button
+$buttonPadding:0.714rem 1rem !default;
+$buttonIconOnlyWidth:3rem !default;
+$buttonIconOnlyPadding:0.714rem !default;
+$buttonBg:$primaryColor !default;
+$buttonTextColor:$primaryTextColor !default;
+$buttonBorder:0 none !default;
+$buttonHoverBg:rgba($primaryColor, .92) !default;
+$buttonTextHoverColor:$primaryTextColor !default;
+$buttonHoverBorderColor:transparent !default;
+$buttonActiveBg:rgba($primaryColor, .68) !default;
+$buttonTextActiveColor:$primaryTextColor !default;
+$buttonActiveBorderColor:transparent !default;
+$raisedButtonShadow:0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12) !default;
+$roundedButtonBorderRadius:2rem !default;
+
+$textButtonHoverBgOpacity:.04 !default;
+$textButtonActiveBgOpacity:.16 !default;
+$outlinedButtonBorder:0 none !default;
+$plainButtonTextColor:$textSecondaryColor !default;
+$plainButtonHoverBgColor:rgba(0,0,0,.04) !default;
+$plainButtonActiveBgColor:rgba(0,0,0,.16) !default;
+
+$secondaryButtonBg:$accentColor !default;
+$secondaryButtonTextColor:$accentTextColor !default;
+$secondaryButtonBorder:0 none !default;
+$secondaryButtonHoverBg:rgba($accentColor, .92) !default;
+$secondaryButtonTextHoverColor:$accentTextColor !default;
+$secondaryButtonHoverBorderColor:transparent !default;
+$secondaryButtonActiveBg:rgba($accentColor, .68) !default;
+$secondaryButtonTextActiveColor:$accentTextColor !default;
+$secondaryButtonActiveBorderColor:transparent !default;
+$secondaryButtonFocusShadow:none !default;
+
+$infoButtonBg:#2196F3 !default;
+$infoButtonTextColor:#ffffff !default;
+$infoButtonBorder:0 none !default;
+$infoButtonHoverBg:rgba(#2196F3, .92) !default;
+$infoButtonTextHoverColor:#ffffff !default;
+$infoButtonHoverBorderColor:transparent !default;
+$infoButtonActiveBg:rgba(#2196F3, .68) !default;
+$infoButtonTextActiveColor:#ffffff !default;
+$infoButtonActiveBorderColor:transparent !default;
+$infoButtonFocusShadow:none !default;
+
+$successButtonBg:#689F38 !default;
+$successButtonTextColor:#ffffff !default;
+$successButtonBorder:0 none !default;
+$successButtonHoverBg:rgba(#689F38, .92) !default;
+$successButtonTextHoverColor:#ffffff !default;
+$successButtonHoverBorderColor:transparent !default;
+$successButtonActiveBg:rgba(#689F38, .68) !default;
+$successButtonTextActiveColor:#ffffff !default;
+$successButtonActiveBorderColor:transparent !default;
+$successButtonFocusShadow:none !default;
+
+$warningButtonBg:#FBC02D !default;
+$warningButtonTextColor:#212529 !default;
+$warningButtonBorder:0 none !default;
+$warningButtonHoverBg:rgba(#FBC02D, .92) !default;
+$warningButtonTextHoverColor:#212529 !default;
+$warningButtonHoverBorderColor:transparent !default;
+$warningButtonActiveBg:rgba(#FBC02D, .68) !default;
+$warningButtonTextActiveColor:#212529 !default;
+$warningButtonActiveBorderColor:transparent !default;
+$warningButtonFocusShadow:none !default;
+
+$helpButtonBg:#9C27B0 !default;
+$helpButtonTextColor:#ffffff !default;
+$helpButtonBorder:0 none !default;
+$helpButtonHoverBg:rgba(#9C27B0, .92) !default;
+$helpButtonTextHoverColor:#ffffff !default;
+$helpButtonHoverBorderColor:transparent !default;
+$helpButtonActiveBg:rgba(#9C27B0, .68) !default;
+$helpButtonTextActiveColor:#ffffff !default;
+$helpButtonActiveBorderColor:transparent !default;
+$helpButtonFocusShadow:none !default;
+
+$dangerButtonBg:#D32F2F !default;
+$dangerButtonTextColor:#ffffff !default;
+$dangerButtonBorder:0 none !default;
+$dangerButtonHoverBg:rgba(#D32F2F, .92) !default;
+$dangerButtonTextHoverColor:#ffffff !default;
+$dangerButtonHoverBorderColor:transparent !default;
+$dangerButtonActiveBg:rgba(#D32F2F, .68) !default;
+$dangerButtonTextActiveColor:#ffffff !default;
+$dangerButtonActiveBorderColor:transparent !default;
+$dangerButtonFocusShadow:none !default;
+
+$linkButtonColor:$primaryColor !default;
+$linkButtonHoverColor:$primaryColor !default;
+$linkButtonTextHoverDecoration:underline !default;
+$linkButtonFocusShadow:none !default;

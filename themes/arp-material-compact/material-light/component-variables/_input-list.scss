@@ -1,0 +1,19 @@
+//input lists (e.g. dropdown, autocomplete, multiselect, orderlist)
+$inputListBg:#ffffff !default;
+$inputListTextColor:$textColor !default;
+$inputListBorder:1px solid #e5e5e5 !default;
+$inputListPadding:0 !default;
+$inputListItemPadding:1rem 1rem !default;
+$inputListItemBg:transparent !default;
+$inputListItemTextColor:$textColor !default;
+$inputListItemHoverBg:rgba(0,0,0,.04) !default;
+$inputListItemTextHoverColor:$textColor !default;
+$inputListItemBorder:0 none !default;
+$inputListItemBorderRadius:0 !default;
+$inputListItemMargin:0 !default;
+$inputListItemFocusShadow:none !default;
+$inputListHeaderPadding:1rem !default;
+$inputListHeaderMargin:0 !default;
+$inputListHeaderBg:#ffffff !default;
+$inputListHeaderTextColor:$textColor !default;
+$inputListHeaderBorder:1px solid rgba(0,0,0,.12) !default;

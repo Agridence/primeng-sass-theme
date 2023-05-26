@@ -1,0 +1,32 @@
+//global
+$fontFamily:Roboto,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif !default;
+$fontSize:1rem !default;
+$fontWeight:normal !default;
+$textColor:$emphasis-high !default;
+$textSecondaryColor:$emphasis-medium !default;
+$borderRadius:4px !default;
+$transitionDuration:.2s !default;
+$formElementTransition:background-color $transitionDuration, border-color $transitionDuration, color $transitionDuration, box-shadow $transitionDuration, background-size 0.2s cubic-bezier(0.64, 0.09, 0.08, 1) !default;
+$actionIconTransition:background-color $transitionDuration, color $transitionDuration, box-shadow $transitionDuration !default;
+$listItemTransition:none !default;
+$primeIconFontSize:1rem !default;
+$divider:1px solid rgba(0,0,0,.12) !default;
+$inlineSpacing:.5rem !default;
+$disabledOpacity:.38 !default;
+$maskBg:rgba(0, 0, 0, 0.32) !default;
+$loadingIconFontSize:2rem !default;
+$errorColor:#B00020 !default;
+
+//selected state
+$highlightBg:rgba($primaryColor, .12) !default;
+$highlightTextColor:$primaryColor !default;
+
+//scale
+$scaleSM:0.875 !default;
+$scaleLG:1.25 !default;
+
+//focus
+$focusOutlineColor:transparent !default;
+$focusOutline:0 none !default;
+$focusOutlineOffset:0 !default;
+$focusShadow:none !default;

@@ -1,0 +1,24 @@
+//accordion
+$accordionSpacing:0 !default;
+$accordionHeaderBorder:0 none !default;
+$accordionHeaderBg:#ffffff !default;
+$accordionHeaderTextColor:$textColor !default;
+$accordionHeaderFontWeight:400 !default;
+$accordionHeaderPadding:1.5rem !default;
+
+$accordionHeaderHoverBg:#f6f6f6 !default;
+$accordionHeaderHoverBorderColor:transparent !default;
+$accordionHeaderTextHoverColor:$textColor !default;
+
+$accordionHeaderActiveBg:#ffffff !default;
+$accordionHeaderActiveBorderColor:transparent !default;
+$accordionHeaderTextActiveColor:$textColor !default;
+
+$accordionHeaderActiveHoverBg:#ffffff !default;
+$accordionHeaderActiveHoverBorderColor:transparent !default;
+$accordionHeaderTextActiveHoverColor:$textColor !default;
+
+$accordionContentBorder:0 none !default;
+$accordionContentBg:#ffffff !default;
+$accordionContentTextColor:$textColor !default;
+$accordionContentPadding:1rem 1.5rem !default;

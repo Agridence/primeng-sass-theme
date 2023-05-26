@@ -1,0 +1,14 @@
+//input field (e.g. inputtext, spinner, inputmask)
+$inputPadding:1rem 1rem !default;
+$inputTextFontSize:1rem !default;
+$inputBg:#ffffff !default;
+$inputTextColor:$emphasis-high !default;
+$inputIconColor:$emphasis-medium !default;
+$inputBorder:1px solid $emphasis-low !default;
+$inputHoverBorderColor:$emphasis-high !default;
+$inputFocusBorderColor:$primaryColor !default;
+$inputErrorBorderColor:$errorColor !default;
+$inputPlaceholderTextColor:$emphasis-medium !default;
+$inputFilledBg:#f5f5f5 !default;
+$inputFilledHoverBg:#ececec !default;
+$inputFilledFocusBg:#dcdcdc !default;

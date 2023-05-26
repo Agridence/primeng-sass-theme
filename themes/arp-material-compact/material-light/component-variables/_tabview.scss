@@ -1,0 +1,27 @@
+//tabview
+$tabviewNavBorder:solid rgba(0,0,0,.12) !default;
+$tabviewNavBorderWidth:0 0 1px 0 !default;
+$tabviewNavBg:#ffffff !default;
+
+$tabviewHeaderSpacing:0 !default;
+$tabviewHeaderBorder:solid rgba(0,0,0,.12) !default;
+$tabviewHeaderBorderWidth:0 0 1px 0 !default;
+$tabviewHeaderBorderColor:transparent transparent rgba(0,0,0,.12) transparent !default;
+$tabviewHeaderBg:#ffffff !default;
+$tabviewHeaderTextColor:$textSecondaryColor !default;
+$tabviewHeaderFontWeight:500 !default;
+$tabviewHeaderPadding:1rem 1.5rem !default;
+$tabviewHeaderMargin:0 0 0 0 !default;
+
+$tabviewHeaderHoverBg:rgba($primaryColor,.04) !default;
+$tabviewHeaderHoverBorderColor:rgba(0,0,0,.12) !default;
+$tabviewHeaderTextHoverColor:$textSecondaryColor !default;
+
+$tabviewHeaderActiveBg:#ffffff !default;
+$tabviewHeaderActiveBorderColor:rgba(0,0,0,.12) !default;
+$tabviewHeaderTextActiveColor:$primaryColor !default;
+
+$tabviewContentBorder:0 none !default;
+$tabviewContentBg:#ffffff !default;
+$tabviewContentTextColor:$textColor !default;
+$tabviewContentPadding:$panelContentPadding !default;

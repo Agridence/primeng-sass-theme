@@ -1,0 +1,14 @@
+//input switch
+$inputSwitchWidth:2.75rem !default;
+$inputSwitchHeight:1rem !default;
+$inputSwitchBorderRadius:.5rem !default;
+$inputSwitchHandleWidth:1.50rem !default;
+$inputSwitchHandleHeight:1.50rem !default;
+$inputSwitchHandleBorderRadius:50% !default;
+$inputSwitchSliderPadding:-1px !default;
+$inputSwitchSliderOffBg:rgba(0,0,0,.38) !default;
+$inputSwitchHandleOffBg:#ffffff !default;
+$inputSwitchSliderOffHoverBg:rgba(0,0,0,.38) !default;
+$inputSwitchSliderOnBg:rgba($primaryColor, .5) !default;
+$inputSwitchSliderOnHoverBg:rgba($primaryColor, .5) !default;
+$inputSwitchHandleOnBg:$primaryColor !default;
