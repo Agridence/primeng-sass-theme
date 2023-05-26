@@ -22,8 +22,8 @@
         "url": "https://github.com/primefaces/primeng-sass-theme/issues"
     },
     "scripts": {
-        "build": "sass --update src:dist  --no-source-map",
-        "build-min": "sass --update src:dist --style=compressed --no-source-map",
+        "build": "sass src:dist  --no-source-map",
+        "build-min": "sass src:dist --style=compressed --no-source-map",
         "watch": "sass --watch src:dist --no-source-map",
         "watch-min": "sass --watch src:dist --style=compressed --no-source-map"
     },
